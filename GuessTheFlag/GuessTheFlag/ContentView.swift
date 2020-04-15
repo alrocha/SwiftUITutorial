@@ -1,8 +1,8 @@
 //
 //  ContentView.swift
-//  WeSplit
+//  GuessTheFlag
 //
-//  Created by Alejandro Rocha on 29/03/2020.
+//  Created by Alejandro Rocha on 15/04/2020.
 //  Copyright © 2020 Alejandro Rocha. All rights reserved.
 //
 
